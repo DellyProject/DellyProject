@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @DellyProject
-- 👀 I’m interested in software development and experimentation!
-- 🌱 I’m currently learning productivity management and Python.
-- 💞️ I’m looking to complete various milestone achievements in multiple projects.
-
-<!--- --->
+- 👋 Hi, I am @DellyProject
+- 👀 I am interested in software development!
+- 🌱 I am currently learning how to code better.
+- 💞️ I am looking to connect and collaborate!
